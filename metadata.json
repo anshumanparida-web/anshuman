@@ -1,0 +1,7 @@
+{
+  "name": "BharatAI Sales Caller",
+  "description": "An AI-powered sales agent that simulates phone calls to customers in India to pitch products and special offers using low-latency voice technology.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
